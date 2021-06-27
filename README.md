@@ -1,3 +1,5 @@
+Test
+
 # React Interview
 
 This project contains a simple React application to display a paginated table of users which can be filtered.
@@ -15,13 +17,14 @@ When you make a PR, write down changes you did with a small explanation why.
 ## Run the code
 
 To get started:
+
 - clone
 - `yarn install`
 - `yarn start`
 
 To run the tests:
-- `yarn run test`
 
+- `yarn run test`
 
 # How to submit
 
@@ -30,7 +33,6 @@ To run the tests:
 2. Make a PR to your forked repo with your changes (make sure you make PR on your forked repo and not on this one - by default github will choose this repo as destination for PR)
 
 3. If you chose to do public repo, send us link to the PR in your forked repo. If you choose to make private repo, add `anitsirc`, `kwdowik`, `jacobjuul` and `kristiandupont` as collaborators and send us link to it. (We prefer public repo's so it can be send internally to other frontenders for review.)
-
 
 # Tips
 
@@ -42,6 +44,7 @@ To run the tests:
 ## DO
 
 We like:
+
 - clean code
 - easy to read code
 - easy to change code
