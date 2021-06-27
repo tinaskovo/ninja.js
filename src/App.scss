@@ -1,0 +1,18 @@
+$size-small: 0.5rem;
+$size-large: 2rem;
+
+.mt-3 {
+  margin-top: $size-large;
+}
+
+.mr-1 {
+  margin-right: $size-small;
+}
+
+.pagination {
+  list-style: none;
+}
+
+.pagination li {
+  display: inline-block;
+}

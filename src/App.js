@@ -1,6 +1,6 @@
 import React from 'react';
 import DataTable from './DataTable';
-import './App.css';
+import './App.scss';
 
 const App = (props) => {
   return (

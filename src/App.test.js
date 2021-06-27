@@ -52,3 +52,12 @@ it('filters rows based on input', () => {
 
   expect(wrapper.find('tr').length).toBe(2);
 });
+
+// it('changes pageNumber on click', () => {
+//   const wrapper = mount(<App rows={5} locale="da" rowsPerPage={5} />);
+//   const li = wrapper.find('li');
+//   li.simulate('click')
+//   const currentPageNumber = wrapper.state().currentPageNumber;
+//   expect(currentPageNumber).to.equal(1)
+// })
+

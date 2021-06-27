@@ -1,5 +1,3 @@
-Test
-
 # React Interview
 
 This project contains a simple React application to display a paginated table of users which can be filtered.
